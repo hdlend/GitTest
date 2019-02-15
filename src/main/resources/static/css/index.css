@@ -167,7 +167,6 @@ body {
 	}
 	.div_page ul{
 		    overflow: hidden;
-		    /* float: right; */
 		    margin: 0 auto;
 		    text-align: center;
 		    display: table;
